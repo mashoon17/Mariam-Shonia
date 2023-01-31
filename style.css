@@ -1,0 +1,59 @@
+.twophotos {width:auto; height: 400px;}
+
+.fourphotos {width: auto; height: 300px;}
+
+.threephotos {width: auto; height: 500px;}
+
+.bigphoto {width: 1150px; height: auto; padding-bottom: 20px;}
+
+a {text-decoration: none; color: inherit; color: rgb(16, 124, 101);}
+
+a:hover, #botton:hover {color: rgb(226, 43, 134) ; cursor: pointer;}
+
+li {list-style-type: none;}
+
+#Portfolio, #about, #contact {color: rgb(226, 43, 134); font-style: italic;}
+
+.d-flex {display: flex; justify-content: space-between; }
+
+nav {width: 350px; height: auto;}
+
+#divsec {width: 600px; height: auto;}
+
+section {padding-left: 4%; padding-right: 4%; }
+
+.space {display: flex; justify-content: space-around;}
+
+header, footer {align-items: center; background-color: rgb(238, 194, 234); 
+    padding-left: 2%; padding-right: 2%; border: 2px rgb(16, 124, 101) solid;} 
+
+section h2 {color: rgb(226, 43, 134); font-size: 22px; padding-top: 10px;}
+
+section h3 {color: rgb(226, 43, 134); font-size: 18px; font-style: italic;}
+
+p {padding-bottom: 15px; font-family: 'ALK Life'; font-size: 18px; color:rgb(16, 124, 101)}
+
+.font-english {font-family: 'Oranienbaum-Regular';}
+
+.font-big { font-family: 'BPG Phone Sans Bold'; padding-top: 10px;}
+
+.background-grey {background-color: rgb(224, 224, 224);}
+
+.background-pink {background-color: rgb(230, 205, 223);}
+
+.iconsize {font-size: 8px;}
+
+.p-solid {border-style: solid;}
+
+form {padding-bottom: 20px;}
+
+form label {font-size: 12px; color:rgb(16, 124, 101) ;}
+
+#botton {font-size: 12px; color: rgb(16, 124, 101); 
+    background-color: rgb(230, 205, 223); border-radius: 15px;}
+
+#p-last {width: 550px; height: auto;}
+
+#a-div {align-items: center; padding-bottom: 30px;}
+
+.list {font-family: 'ALK Life'; font-size: 20px; color:rgb(16, 124, 101)}
